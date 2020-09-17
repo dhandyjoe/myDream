@@ -1,0 +1,3 @@
+- Belajar intent
+- Belajar Gradle
+- Belajar startActivity
