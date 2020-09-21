@@ -1,5 +1,0 @@
-- Belajar intent
-- Belajar SQLlite
-- Belajar Gradle
-- Belajar startActivity
-- Belajar REcycle vie
