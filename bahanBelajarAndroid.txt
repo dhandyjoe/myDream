@@ -1,4 +1,3 @@
-- Belajar Intent
 - Belajar SQLlite
 - Belajar Gradle
 - Belajar StartActivity
